@@ -24,10 +24,10 @@ const App = () => {
         <div className="flex justify-center items-center min-h-screen bg-gray-100 p-4">
             <div className="shadow-xl rounded-2xl overflow-hidden bg-white">
                 <iframe
-                    title="Project DEDS v2"
+                    title="Project DEDS v2 (1)"
                     width={dimensions.width - 20}
                     height={dimensions.height - 20}
-                    src="https://app.powerbi.com/view?r=eyJrIjoiZTQ1ZDk0YmUtMGM2MS00ZTJjLWE2YWQtZDVmMTZkYWFmYTg3IiwidCI6ImEyNTg2YjliLWY4NjctNGIzYy05MzYzLTViNDM1YzVkYmM0NSIsImMiOjh9"
+                    src="https://app.powerbi.com/view?r=eyJrIjoiYTYxYTQ1ZGMtNGQxZi00OTFiLTk3YmQtM2U1NGJlNGViNzgxIiwidCI6ImEyNTg2YjliLWY4NjctNGIzYy05MzYzLTViNDM1YzVkYmM0NSIsImMiOjh9"
                     frameborder="0"
                     allowFullScreen="true">
                 </iframe>
