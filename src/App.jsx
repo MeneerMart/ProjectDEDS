@@ -21,8 +21,6 @@ const App = () => {
     }, []);
 
     return (
-        <div>
-            <p>Tefstteksttest</p>
             <div className="flex justify-center items-center min-h-screen bg-gray-100 p-4">
                 <div className="shadow-xl rounded-2xl overflow-hidden bg-white">
                     <iframe
@@ -35,7 +33,6 @@ const App = () => {
                     ></iframe>
                 </div>
             </div>
-        </div>
     );
 };
 
